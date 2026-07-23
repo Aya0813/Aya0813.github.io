@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet.
 
 #### AI 
 
-- I am **Aya El Mir**, a machine learning researcher.
+- I am **Aya El Mir**, a fundamental and applied AI researcher. 
 - I am currently working as a Research Engineer at [Mohamed bin Zayed University of Artificial Intelligence]([https://www.lipsum.com/](https://mbzuai.ac.ae/)) under the supervision of [Prof. Salem Lahlou](https://lahlou.org/) and [Prof. Martin Takáč](https://mtakac.com/News).  
 
 - I will be joining the M.Sc. in Computer Science program at Université de Montréal in Fall 2026.
