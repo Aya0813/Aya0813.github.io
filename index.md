@@ -1,7 +1,7 @@
 ---
-layout: Aya El Mir
+layout: home
 title: Aya El Mir
-image: /assets/images/home.png
+image: /assets/images/Aya_El_Mir.jpg
 show_news: true
 ---
 
