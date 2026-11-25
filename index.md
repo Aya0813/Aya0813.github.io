@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: Aya El Mir
 title: Aya El Mir
 image: /assets/images/home.png
 show_news: true
