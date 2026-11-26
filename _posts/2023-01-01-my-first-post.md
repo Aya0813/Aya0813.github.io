@@ -4,7 +4,7 @@ author: Aya El Mir
 title: The capital of what is possible
 permalink: /blog/your-substack-article
 ---
-I wrote about [your topic] on Substack.
+I wrote about the importance of dreaming big on Substack.
 
 [Read the full article on Substack](https://aya1376968.substack.com/p/the-capital-of-what-is-possible?r=olbul&utm_campaign=post&utm_medium=web&triedRedirect=true)
 
