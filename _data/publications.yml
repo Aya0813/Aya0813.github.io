@@ -1,64 +1,42 @@
-- title: "Broadly applicable methods for the detection of artefacts in electroencephalography acquired simultaneously with hemodynamic recordings"
-  authors:
-    - Rachel Nuttall
-    - Aya El Mir
-    - Cilia Jäger
-    - Svenja Letz
-    - Afra Wohlschläger
-    - Gerhard Schneider
-  year: 2023
-  journal: MethodsX
-  tags:
-    - tag: paper
-      link: https://www.sciencedirect.com/science/article/pii/S2215016123003722
-    - tag: code
-      link: https://github.com/rachelnutt3012/Artifind
-
-- title: "Association of P50 With Physiologic Variables and Outcomes in Critically Ill Patients"
-  authors:
-    - S Kapoor
-    - A El Mir
-    - V Modem
-    - J Matos
-    - F Willumsen Haug
-    - A-K Ian Wong
-    - L Anthony Celi
-    - J Schwartz
-  year: 2024
-  journal: American Journal of Respiratory and Critical Care Medicine
-  tags:
-    - tag: American Thoracic Society Journals
-      link: https://academic.oup.com/ajrccm/article/209/Supplement_1/A2959/8479008
-
-- title: "Democratizing MLLMs in Healthcare: TinyLLaVA-Med for Efficient Healthcare Diagnostics in Resource-Constrained Settings"
+- title: "Learning to Teach: Reinforcement-Learned Curricula for LLM Post-Training"
   authors:
     - Aya El Mir
-    - Lukelo Thadei Luoga
-    - Boyuan Chen
-    - Muhammad Abdullah Hanif
-    - Muhammad Shafique
-  year: 2024
-  journal: IEEE ICIP Workshop
+    - Martin Takáč
+    - Salem Lahlou
+  year: 2026
+  journal: NeurIPS Workshop
   tags:
-    - tag: paper
-      link: https://ieeexplore.ieee.org/abstract/document/10769172
+    - tag: OpenReview
+      link: https://openreview.net/forum?id=ngn5HGKLbO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2026%2FWorkshop%2FWiML%2FAuthors%23your-submissions)
+
+- title: "Prompting Is Not Enough: Defining Quality in Synthetic QA Generation for Technical Domains"
+  authors:
+    - Aya El Mir
+    - Adrian Garcia-Garcia
+    - Kirill Dubovikov
+    - Sunil Kumar Sahu
+    - Federico Castanedo
+    - Larry Murray
+    - Martin Takáč
+    - Salem Lahlou
+  year: 2026
+  journal: Under Review (at EACL 2027)
+  tags:
+    - tag: OpenReview
+      link: https://openreview.net/forum?id=GtQznp4FYl#discussion
+
+- title: "Byzantine Cheap Talk: Adversarial Resilience and Topology Effects in LLM Coordination Games"
+  authors:
+    - Aya El Mir
+    - Martin Takáč
+    - Salem Lahlou
+  year: 2026
+  journal: Springer's Lecture Notes in Computer Science (LNCS)
+  tags:
     - tag: arXiv
-      link: https://arxiv.org/abs/2409.12184
-
-- title: "Advancing Healthcare in Low-Resource Environments Through an Optimization and Deployment Framework for Medical Multimodal Large Language Models"
-  authors:
-    - Aya El Mir
-    - Lukelo Thadei Luoga
-    - Boyuan Chen
-    - Muhammad Abdullah Hanif
-    - Muhammad Shafique
-  year: 2024
-  journal: IEEE EMBS BHI Main Conference Proceedings
-  tags:
-    - tag: paper
-      link: https://ieeexplore.ieee.org/abstract/document/10913565
+      link: https://arxiv.org/abs/2606.07790
     - tag: code
-      link: https://github.com/AyaLukeloCapstone/TinyLLaVA-Med-F
+      link: https://github.com/saleml/byzantine-cheap-talk
 
 - title: "Moving beyond the empty cell: The threat of decontextualized healthcare data"
   authors:
@@ -79,42 +57,64 @@
     - tag: paper
       link: https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001194
 
-- title: "Byzantine Cheap Talk: Adversarial Resilience and Topology Effects in LLM Coordination Games"
+- title: "Advancing Healthcare in Low-Resource Environments Through an Optimization and Deployment Framework for Medical Multimodal Large Language Models"
   authors:
     - Aya El Mir
-    - Martin Takáč
-    - Salem Lahlou
-  year: 2026
-  journal: Springer's Lecture Notes in Computer Science (LNCS)
+    - Lukelo Thadei Luoga
+    - Boyuan Chen
+    - Muhammad Abdullah Hanif
+    - Muhammad Shafique
+  year: 2024
+  journal: IEEE EMBS BHI Main Conference Proceedings
   tags:
-    - tag: arXiv
-      link: https://arxiv.org/abs/2606.07790
+    - tag: paper
+      link: https://ieeexplore.ieee.org/abstract/document/10913565
     - tag: code
-      link: https://github.com/saleml/byzantine-cheap-talk
+      link: https://github.com/AyaLukeloCapstone/TinyLLaVA-Med-F
 
-- title: "Prompting Is Not Enough: Defining Quality in Synthetic QA Generation for Technical Domains"
+- title: "Democratizing MLLMs in Healthcare: TinyLLaVA-Med for Efficient Healthcare Diagnostics in Resource-Constrained Settings"
   authors:
     - Aya El Mir
-    - Adrian Garcia-Garcia
-    - Kirill Dubovikov
-    - Sunil Kumar Sahu
-    - Federico Castanedo
-    - Larry Murray
-    - Martin Takáč
-    - Salem Lahlou
-  year: 2026
-  journal: Under Review (at EACL 2027)
+    - Lukelo Thadei Luoga
+    - Boyuan Chen
+    - Muhammad Abdullah Hanif
+    - Muhammad Shafique
+  year: 2024
+  journal: IEEE ICIP Workshop
   tags:
-    - tag: OpenReview
-      link: https://openreview.net/forum?id=GtQznp4FYl#discussion
+    - tag: paper
+      link: https://ieeexplore.ieee.org/abstract/document/10769172
+    - tag: arXiv
+      link: https://arxiv.org/abs/2409.12184
 
-- title: "Learning to Teach: Reinforcement-Learned Curricula for LLM Post-Training"
+- title: "Association of P50 With Physiologic Variables and Outcomes in Critically Ill Patients"
   authors:
-    - Aya El Mir
-    - Martin Takáč
-    - Salem Lahlou
-  year: 2026
-  journal: NeurIPS Workshop
+    - S Kapoor
+    - A El Mir
+    - V Modem
+    - J Matos
+    - F Willumsen Haug
+    - A-K Ian Wong
+    - L Anthony Celi
+    - J Schwartz
+  year: 2024
+  journal: American Journal of Respiratory and Critical Care Medicine
   tags:
-    - tag: OpenReview
-      link: https://openreview.net/forum?id=ngn5HGKLbO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2026%2FWorkshop%2FWiML%2FAuthors%23your-submissions)
+    - tag: American Thoracic Society Journals
+      link: https://academic.oup.com/ajrccm/article/209/Supplement_1/A2959/8479008
+
+- title: "Broadly applicable methods for the detection of artefacts in electroencephalography acquired simultaneously with hemodynamic recordings"
+  authors:
+    - Rachel Nuttall
+    - Aya El Mir
+    - Cilia Jäger
+    - Svenja Letz
+    - Afra Wohlschläger
+    - Gerhard Schneider
+  year: 2023
+  journal: MethodsX
+  tags:
+    - tag: paper
+      link: https://www.sciencedirect.com/science/article/pii/S2215016123003722
+    - tag: code
+      link: https://github.com/rachelnutt3012/Artifind
