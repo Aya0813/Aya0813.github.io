@@ -5,20 +5,26 @@ image: /assets/images/Aya_El_Mir.jpg
 show_news: true
 ---
 
-Lorem ipsum dolor sit amet.
+I am **Aya El Mir**, an AI researcher.
 
-#### AI
+#### How history so far:
+- I am **Aya El Mir**, an AI researcher.
+- I am currently pursuing an M.Sc. in Computer Science at the Université de Montréal (UdeM). 
+- Before moving to Canada, I lived 6 years in the United Arab Emirates: 
+  - 2020-2024: Studied Computer Engineering at [New York Univeristy Abu Dhabi (NYUAD)](https://nyuad.nyu.edu/en/). 
+  - 2024-2025: Was lucky to stay at NYUAD for one more year working full-time as a Research Assistant. 
+  - 2025-2026: Was as a Research Engineer at [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) under the great supervision of [Prof. Salem Lahlou](https://lahlou.org/) and [Prof. Martin Takáč](https://mtakac.com/News).
 
-- I am **Aya El Mir**, a fundamental and applied AI researcher.
-- I am currently working as a Research Engineer at [Mohamed bin Zayed University of Artificial Intelligence](<[https://www.lipsum.com/](https://mbzuai.ac.ae/)>) under the supervision of [Prof. Salem Lahlou](https://lahlou.org/) and [Prof. Martin Takáč](https://mtakac.com/News).
+#### My Research Interests: 
+- Responsible AI. 
 
-- I will be joining the M.Sc. in Computer Science program at Université de Montréal in Fall 2026.
-- My research interests are in building reliable and socially beneficial machine learning systems, particularly for healthcare and low-resource settings.
 
-#### Much more than AI
+#### What do I care about? 
+- I believe in the power of data, collecting it responsibly, handling it with integrity, and using AI to surface insights that create real impact and amplify voices often overlooked. 
+- I’ve applied this across healthcare, climate forecasting, and sustainability, and I’m excited to explore many more use cases.
 
-...
 
-#### Contact
+#### Contact: 
+I love connecting with driven people; even when we disagree on some things (that’s where growth really happens!). Feel free to reach out if you’d like to have a chat about anything mentioned above or beyond.
 
-aya.elmir _at_ umontreal.ca
+**Where can one reach me?** aya.el.mir _at_ umontreal.ca
