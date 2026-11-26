@@ -1,5 +1,5 @@
 ---
-title: (@NYUAD) Multimodal LLMs and healthcare
+title: (@NYU) Multimodal LLMs and healthcare
 order: 15
 image: projects/salta.png
 ---
@@ -13,3 +13,5 @@ Specifically, TinyLLaVA-Med-FQ4 achieves the greatest reductions, lowering dynam
 This research underscores the potential for deploying optimized MLLMs in low-resource settings, providing a foundation for future developments in accessible AI-driven healthcare solutions.
 
 Please reference the "Publications" page for relevant link of the project.
+
+
