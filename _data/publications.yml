@@ -1,16 +1,19 @@
-- title: "Multi-Fidelity Active Learning with GFlowNets"
+- title: "Broadly applicable methods for the detection of artefacts in electroencephalography acquired simultaneously with hemodynamic recordings"
   authors:
-    - Alex Hernandez-Garcia
-    - Nikita Saxena
-    - Moksh Jain
-    - Cheng-Hao Liu
-    - Yoshua Bengio
+    - Rachel Nuttall
+    - Aya El Mir
+    - Cilia Jäger
+    - Svenja Letz
+    - Afra Wohlschläger
+    - Gerhard Schneider
   year: 2023
-  journal: Transactions on Machine Learning Research (TMLR)
+  journal: MethodsX
   tags:
-    - tag: OpenReview
-      link: https://openreview.net/forum?id=dLaazW9zuF
-    - tag: arXiv
-      link: https://arxiv.org/abs/2306.11715
+    # - tag: OpenReview
+    #   link: https://openreview.net/forum?id=dLaazW9zuF
+    # - tag: arXiv
+    #   link: https://arxiv.org/abs/2306.11715
+    - tag: sciencedirect
+      link: https://www.sciencedirect.com/science/article/pii/S2215016123003722
     - tag: code
-      link: https://github.com/nikita-0209/mf-al-gfn
+      link: https://github.com/rachelnutt3012/Artifind
