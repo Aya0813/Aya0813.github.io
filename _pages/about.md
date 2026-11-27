@@ -63,7 +63,7 @@ Thus, since I left my home country of 🇲🇦 at 18 years old in 2020, I work o
   - 🇦🇪 Co-organized the [Healthcare AI Datathon](https://www.gccehealth.org/page/ai-datathon/859). 
 
 - 2025-2026 
-  - 
+  - 🇲🇦 Presentation my [paper](https://arxiv.org/abs/2606.07790) at the [NETYS](https://netys.net/) hosted in one my favorite cities Agadir. 
   - 🇲🇦 Co-organized the event [AI as a Catalyst](https://sites.google.com/view/ai-catalyst-morocco-conf/english) (my event first in home country!) in l'[UM6P](https://um6p.ma/) (the leading university in AI research nationally). 
 
 

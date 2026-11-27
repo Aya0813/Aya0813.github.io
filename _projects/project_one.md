@@ -1,7 +1,7 @@
 ---
 title: (@MBZUAI) Synthetic QA generation and data quality
 order: 20
-image: projects/peritomoreno.png
+image: projects/MBZUAI.JPG
 ---
 
 Large language models increasingly rely on synthetic question-answer (QA) pipelines to create domain-specific training data. We argue that their primary challenge is not generating data, but defining quality. Through a petroleum-engineering case study, we show that quality is neither a single property of the final QA pair nor fixed in advance, but emerges through iterative refinement involving subject-matter experts (SMEs) and ML engineers, with domain- and task-dependent criteria.
@@ -10,6 +10,6 @@ In our usecase of downstream GRPO training, PINE, our resulting QA dataset, impr
 
 Overall, synthetic QA quality must be defined throughout the pipeline and aligned with its downstream use.
 
-Currently under review at EACL 2027 ([OpenReview](https://openreview.net/forum?id=GtQznp4FYl#discussion)). 
+Currently under review at EACL 2027 ([OpenReview](https://openreview.net/forum?id=GtQznp4FYl#discussion)).
 
 Supervisors: [Prof. Salem Lahlou](https://lahlou.org/) and [Prof. Martin Takáč](https://mtakac.com/News)
