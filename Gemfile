@@ -15,12 +15,12 @@ source "https://rubygems.org"
 # gem "jekyll", "~> 3.8.5"
 gem "github-pages", group: :jekyll_plugins
 
-# Plugins
-group :jekyll_plugins do
-  gem "jekyll-feed"
-  gem 'jekyll-sitemap'
-  gem 'jekyll-seo-tag'
-  gem 'jekyll-redirect-from'
-end
+# # Plugins
+# group :jekyll_plugins do
+#   gem "jekyll-feed"
+#   gem 'jekyll-sitemap'
+#   gem 'jekyll-seo-tag'
+#   gem 'jekyll-redirect-from'
+# end
 
-gem "webrick", "~> 1.8"
+# gem "webrick", "~> 1.8"
