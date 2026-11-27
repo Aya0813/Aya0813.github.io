@@ -1,7 +1,7 @@
 ---
 title: (@MBZUAI) Synthetic QA generation and data quality
 order: 20
-image: projects/MBZUAI.JPG
+image: projects/SAM_5728.JPG
 ---
 
 Large language models increasingly rely on synthetic question-answer (QA) pipelines to create domain-specific training data. We argue that their primary challenge is not generating data, but defining quality. Through a petroleum-engineering case study, we show that quality is neither a single property of the final QA pair nor fixed in advance, but emerges through iterative refinement involving subject-matter experts (SMEs) and ML engineers, with domain- and task-dependent criteria.

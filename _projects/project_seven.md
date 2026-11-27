@@ -11,6 +11,7 @@ We present two broadly applicable methods for artefact detection based on peak d
 We validated the performance of our methods versus the two canonical approaches for detection of GS/CB artefact, respectively, on 26 healthy human EEG-functional MRI resting-state datasets. Utilising various performance metrics, we found our methods to perform as well as – and sometimes better than - the canonical standard approaches. With as little as one EEG channel recording, our methods can be applied to detect GS/CB artefacts in EEG data acquired simultaneously with MRI in the absence of MR volume onsets and/or an ECG recording. The detected artefact onsets can then be fed into the standard artefact correction software.
 
 [Paper](https://www.sciencedirect.com/science/article/pii/S2215016123003722)
+
 [Code](https://github.com/rachelnutt3012/Artifind)
 
 Supervisor: [Dr. Rachel Nuttall](https://www.linkedin.com/in/rachel-nuttall/)

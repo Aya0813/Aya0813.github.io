@@ -12,7 +12,7 @@ Our ongoing experiments use mathematical reasoning as a controlled setting with 
 
 To our knowledge, recent work has studied curriculum learning for LLM post-training and classical work has studied RL-trained teacher-student curricula, but these directions have largely remained separate. Our work connects them by learning a lightweight RL teacher that directly controls the student's batch distribution and is optimized from the student's validation improvement. Rather than filtering examples according to a fixed criterion or prescribing an easy-to-hard trajectory, our framework treats the curriculum itself as a policy to be learned from the evolving student.
 
-Preliminary results of the project are to be presented at a Workshop at NeurIPS Atlanta 2026;[OpenReview](<https://openreview.net/forum?id=ngn5HGKLbO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2026%2FWorkshop%2FWiML%2FAuthors%23your-submissions)>).
+Preliminary results of the project are to be presented at a Workshop at NeurIPS Atlanta 2026: [OpenReview](<https://openreview.net/forum?id=ngn5HGKLbO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2026%2FWorkshop%2FWiML%2FAuthors%23your-submissions)>).
 
 _This project is still under progress currently and this page will be updated with the results later._
 
