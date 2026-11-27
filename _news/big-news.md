@@ -1,7 +1,7 @@
 ---
-date: September 2026
-title: Moved to 🇨🇦 to start my MS
+date: 01/09/2026
+title: Started my MS in 🇨🇦 and taking classes @MILA
 layout: page
 ---
-Started my Master at l'UdeM and taking classes at MILA
-After six years in the UAE, I apparently decided that going from 40°C summers to Montréal winters was a reasonable life choice.
+
+After 6 years in the UAE, I decided to go from 40°C summers to Montréal winters. 
