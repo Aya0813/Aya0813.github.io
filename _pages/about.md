@@ -44,13 +44,13 @@ I value not only doing great science, but also being able to communicate it effe
 
 Thus, since I left my home country of 🇲🇦 at 18 years old in 2020, I work on cultivating these (not so) soft skills through everyday life, of course, but most importantly through the following experiences around the world:
 
-- 2020-2021: Covid (limited travel 😔)
+**2020-2021: Covid (limited travel 😔)**
 
-  - (@NYU) My 1st ever Research Internship at [Prof. Michail Maniatakos](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/michail-maniatakos.html)'s lab (remote).
+- (@NYU) My 1st ever Research Internship at [Prof. Michail Maniatakos](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/michail-maniatakos.html)'s lab (remote).
 
-- 2021-2022:
+**2021-2022**
 
-  - 🇩🇪 @TUM Selected as **one of 20 students** from **top U.S., Canadian, and UK** universities for the 2022 TUM PREP Program cohort.
+- 🇩🇪 @TUM Selected as **one of 20 students** from **top U.S., Canadian, and UK** universities for the 2022 TUM PREP Program cohort.
 
 **2022-2023**
 
@@ -58,20 +58,21 @@ Thus, since I left my home country of 🇲🇦 at 18 years old in 2020, I work o
 - 🇦🇪 @Cycled Technologies AS: AI Engineer Intern
 - 🇺🇸 First Datathon in NYC organized by the [SCCM](https://www.sccm.org/) (Society of Critical Care Medicine) ([datathon code](https://github.com/SCCMdatathon2023/team_02/blob/main/src/post_datathon/Final_Methods.ipynb))
 
-- 2023-2024:
+**2023-2024**
 
-  - 🇦🇪 Computer Engineering Representative @NYU Abu Dhabi (Engineering Commitee [website](https://nyuad-eac.github.io/team/))
-  - 🇫🇷 CS Team lead and presented with my team my university at iGEM (world’s biggest synthetic biology competition): [team website](https://2023.igem.wiki/nyu-abu-dhabi/index.html)
-  - 🇨🇭 Invited back to the same summer school, this time as a lecturer (the youngest lecturer in the [Bumblekite](https://www.bumblekite.com/summer-school-24) summer school).
-  - 🇯🇵 Mentor and Seminar lead at the selective fully funded [HLAB program](https://teach.h-lab.co/)
+- 🇦🇪 Computer Engineering Representative @NYU Abu Dhabi (Engineering Commitee [website](https://nyuad-eac.github.io/team/))
+- 🇫🇷 CS Team lead and presented with my team my university at iGEM (world’s biggest synthetic biology competition): [team website](https://2023.igem.wiki/nyu-abu-dhabi/index.html)
+- 🇨🇭 Invited back to the same summer school, this time as a lecturer (the youngest lecturer in the [Bumblekite](https://www.bumblekite.com/summer-school-24) summer school).
+- 🇯🇵 Mentor and Seminar lead at the selective fully funded [HLAB program](https://teach.h-lab.co/)
 
-- 2024-2025
+**2024-2025**
 
-  - 🇦🇪 Co-organized the [Healthcare AI Datathon](https://www.gccehealth.org/page/ai-datathon/859), hosted at the Center for Innovation and Technology, Dubai Health.
+- 🇦🇪 Co-organized the [Healthcare AI Datathon](https://www.gccehealth.org/page/ai-datathon/859), hosted at the Center for Innovation and Technology, Dubai Health.
 
-- 2025-2026
-  - 🇲🇦 Presented my [paper](https://arxiv.org/abs/2606.07790) at the [NETYS](https://netys.net/) international conference hosted in one my favorite cities: Agadir.
-  - 🇲🇦 Co-organized the event [AI as a Catalyst](https://sites.google.com/view/ai-catalyst-morocco-conf/english) (my first event in home country!) in [UM6P](https://um6p.ma/) (the leading university in AI research nationally).
+**2025-2026**
+
+- 🇲🇦 Presented my [paper](https://arxiv.org/abs/2606.07790) at the [NETYS](https://netys.net/) international conference hosted in one my favorite cities: Agadir.
+- 🇲🇦 Co-organized the event [AI as a Catalyst](https://sites.google.com/view/ai-catalyst-morocco-conf/english) (my first event in home country!) in [UM6P](https://um6p.ma/) (the leading university in AI research nationally).
 
 _Clarification: People are generally more familiar with hackathons, but datathons follow the same concept, with a focus on data science._
 
