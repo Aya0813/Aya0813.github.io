@@ -1,4 +1,13 @@
-<figure class="image">
+<!-- <figure class="image">
     <img src="{{ include.url }}" alt="{{ include.description }}" style="width: {{ include.size }}%; height: {{ include.size }}%">
+  <figcaption>{{ include.description }}</figcaption>
+</figure> -->
+
+<figure class="image">
+  <img
+    src="{{ include.url }}"
+    alt="{{ include.description }}"
+    style="width: {{ include.size }}%; height: auto;"
+  />
   <figcaption>{{ include.description }}</figcaption>
 </figure>
