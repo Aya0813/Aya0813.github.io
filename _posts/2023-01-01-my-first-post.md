@@ -11,3 +11,6 @@ I wrote about the importance of dreaming big on Substack.
 
 <!-- 
 {% include image.html url="/assets/images/blog/my-first-post/kolka.jpg" description="Kolka" size="50" %} -->
+
+
+<!-- Later put my essays from nyuad :))  -->
