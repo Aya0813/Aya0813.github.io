@@ -12,3 +12,5 @@ We validated the performance of our methods versus the two canonical approaches 
 
 [Paper](https://www.sciencedirect.com/science/article/pii/S2215016123003722)
 [Code](https://github.com/rachelnutt3012/Artifind)
+
+Supervisor: [Dr. Rachel Nuttall](https://www.linkedin.com/in/rachel-nuttall/)

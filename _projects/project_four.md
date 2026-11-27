@@ -20,3 +20,7 @@ One of the primary challenges in building a flexible flood prediction model lies
 The objective of this project is to find a solution that allows the model to adapt to new regions and scenarios with minimal data, building on the foundation of the CASPIAN model. Initially, I started with an existing MAML implementation provided by Bilal Hassan, a postdoctoral researcher and member of the lab. My goal was to experiment with different variations, hyperparameters, and configurations of MAML to determine the most effective approach for achieving rapid adaptation and high accuracy in new, low-data regions.
 
 [Project Final Report](https://docs.google.com/document/d/1pjJMlg3qMVF_2nQw1nVOe4nnAHHw5YRxRzee-22UBzQ/edit?usp=sharing)
+[Github Repository](https://github.com/Aya0813/CASPIAN-MAML)
+
+
+Supervisor: [Prof. Samer Madanat](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/samer-madanat.html)

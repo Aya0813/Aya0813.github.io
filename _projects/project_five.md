@@ -12,4 +12,8 @@ We identify two stable behavioral archetypes that replicate across all model coh
 
 These findings reveal concrete security vulnerabilities: communication channels can be exploited as adversarial injection vectors, and disclosing network topology to agents can degrade coordination even without any adversary present.
 
-Please reference the "Publications" page for relevant link of the project.
+Paper presented at the B Ranked Conference [NETYS](https://netys.net/): [Byzantine Cheap Talk: Adversarial Resilience and Topology Effects in LLM Coordination Games](https://arxiv.org/abs/2606.07790)
+
+Code: [Github Repository](https://github.com/saleml/byzantine-cheap-talk)
+
+Supervisors: [Prof. Salem Lahlou](https://lahlou.org/) and [Prof. Martin Takáč](https://mtakac.com/News)

@@ -17,4 +17,8 @@ Pulse oximeters are medical devices used to measure the level of oxygen in the b
 3. Evaluate the influence of hidden hypoxemia on patient outcomes using statistical and machine learning techniques.
 4. Assess and compare the performance of different models across various racial groups to highlight the importance of careful feature selection and bias mitigation in clinical predictions.
 
+Context: This project was to be presented as a 3H tutorial at **ETH Zurich** as part of the Bumblekite ML Summer School, under the supervision of the summer school Key Note Speaker [Prof. Leo Anthony Celi](https://imes.mit.edu/people/celi-leo). 
+
 [Code](https://drive.google.com/file/d/1NYaVFU8FxxlvMSDIU-f1BItFUQnmOGFk/view?usp=sharing)
+[Bumblekite](https://www.bumblekite.com/summer-school-24)
+[Presentation Slide Deck](https://drive.google.com/file/d/1ObJiG_0AOfDOIRIxQ9mIGM8hmZahJT6V/view?usp=sharing)

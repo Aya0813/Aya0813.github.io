@@ -12,6 +12,5 @@ Specifically, TinyLLaVA-Med-FQ4 achieves the greatest reductions, lowering dynam
 
 This research underscores the potential for deploying optimized MLLMs in low-resource settings, providing a foundation for future developments in accessible AI-driven healthcare solutions.
 
-Please reference the "Publications" page for relevant link of the project.
-
-
+[Github Repository](https://github.com/AyaLukeloCapstone/TinyLLaVA-Med-F)
+[Paper](https://ieeexplore.ieee.org/abstract/document/10913565): Published in main conference proceedings of the IEEE EMBS BHI (Biomedical and Health Informatics) peer-reviewed international conference (less than 30% acceptance rate). 

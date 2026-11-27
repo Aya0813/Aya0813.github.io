@@ -10,4 +10,6 @@ In our usecase of downstream GRPO training, PINE, our resulting QA dataset, impr
 
 Overall, synthetic QA quality must be defined throughout the pipeline and aligned with its downstream use.
 
-Please reference the "Publications" page for relevant link of the project.
+Currently under review at EACL 2027 ([OpenReview](https://openreview.net/forum?id=GtQznp4FYl#discussion)). 
+
+Supervisors: [Prof. Salem Lahlou](https://lahlou.org/) and [Prof. Martin Takáč](https://mtakac.com/News)
