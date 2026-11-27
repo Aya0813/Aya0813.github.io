@@ -1,7 +1,7 @@
 ---
 title: (@NYU) Multimodal LLMs and healthcare
 order: 15
-image: projects/salta.png
+image: projects/NYUAD_capstone.PNG
 ---
 
 The critical shortage of medical professionals in low-resource countries, notably in Africa, hinders adequate health-care delivery. AI, particularly Multimodal Large Language models (MLLMs), can enhance the efficiency of healthcare systems by assisting in medical image analysis and diagnosis. However, the deployment of state-of-the-art MLLMs is limited in these regions due to the high computational demands that exceed the capabilities of consumer-grade GPUs.
@@ -13,4 +13,4 @@ Specifically, TinyLLaVA-Med-FQ4 achieves the greatest reductions, lowering dynam
 This research underscores the potential for deploying optimized MLLMs in low-resource settings, providing a foundation for future developments in accessible AI-driven healthcare solutions.
 
 [Github Repository](https://github.com/AyaLukeloCapstone/TinyLLaVA-Med-F)
-[Paper](https://ieeexplore.ieee.org/abstract/document/10913565): Published in main conference proceedings of the IEEE EMBS BHI (Biomedical and Health Informatics) peer-reviewed international conference (less than 30% acceptance rate). 
+[Paper](https://ieeexplore.ieee.org/abstract/document/10913565): Published in main conference proceedings of the IEEE EMBS BHI (Biomedical and Health Informatics) peer-reviewed international conference (less than 30% acceptance rate).

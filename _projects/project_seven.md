@@ -1,7 +1,7 @@
 ---
 title: (@TUM) Detection of artefacts in EEG data
 order: 15
-image: projects/Bumblekite_Machine_Learning_Summer_School_2024_Zurich-119.jpg
+image: projects/TUM_final.PNG
 ---
 
 Electroencephalography (EEG) data, acquired simultaneously with magnetic resonance imaging (MRI), must be corrected for artefacts related to MR gradient switches (GS) and the cardioballistic (CB) effect. Canonical approaches require additional signal acquisition for artefact detection (e.g., MR volume onsets, ECG), without which the EEG data would be rendered uncleanable from these artefacts.

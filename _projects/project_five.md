@@ -1,7 +1,7 @@
 ---
 title: (@MBZUAI) Robustness and multi-agent systems
 order: 20
-image: projects/peritomoreno.png
+image: projects/NETYS.JPG
 ---
 
 Multi-agent LLM systems increasingly rely on communication protocols for coordination, yet their robustness under adversarial and structural constraints remains poorly understood. Building on prior work showing that cheap-talk channels enable cooperation in LLM coordination games, we investigate two vulnerability classes in a 4-player Stag Hunt across six model families and 720 trials.

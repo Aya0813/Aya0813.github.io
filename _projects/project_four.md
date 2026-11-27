@@ -1,7 +1,7 @@
 ---
 title: (@NYU) Climate AI
 order: 15
-image: projects/salta.png
+image: projects/sunset_AD.JPG
 ---
 
 Coastal flood risk is growing due to climate change, particularly from rising sea levels and the construction of engineered shoreline protections such as seawalls. These interventions can significantly reshape flood dynamics and lead to highly complex interactions across the coastal landscape.
@@ -21,6 +21,5 @@ The objective of this project is to find a solution that allows the model to ada
 
 [Project Final Report](https://docs.google.com/document/d/1pjJMlg3qMVF_2nQw1nVOe4nnAHHw5YRxRzee-22UBzQ/edit?usp=sharing)
 [Github Repository](https://github.com/Aya0813/CASPIAN-MAML)
-
 
 Supervisor: [Prof. Samer Madanat](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/samer-madanat.html)

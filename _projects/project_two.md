@@ -1,7 +1,7 @@
 ---
 title: (@MBZUAI) RL-based Curriculum Learning
 order: 15
-image: projects/salta.png
+image: projects/neurips_atlanta.jpg
 ---
 
 Large language model (LLM) post-training typically samples training examples uniformly or follows a predefined data schedule, despite the fact that the utility of different examples may change substantially as the model learns. Curriculum learning offers an alternative by controlling which data the learner encounters over time. Recent methods for LLM reasoning and post-training have explored adaptive data selection, including distribution-level curricula such as DUMP and competence-based prompt selection such as Prompt Curriculum Learning (PCL). However, these approaches primarily construct curricula through predefined scheduling or model-derived selection criteria rather than learning an explicit teacher policy that adapts the student's training distribution through interaction.
@@ -12,9 +12,8 @@ Our ongoing experiments use mathematical reasoning as a controlled setting with 
 
 To our knowledge, recent work has studied curriculum learning for LLM post-training and classical work has studied RL-trained teacher-student curricula, but these directions have largely remained separate. Our work connects them by learning a lightweight RL teacher that directly controls the student's batch distribution and is optimized from the student's validation improvement. Rather than filtering examples according to a fixed criterion or prescribing an easy-to-hard trajectory, our framework treats the curriculum itself as a policy to be learned from the evolving student.
 
-Preliminary results of the project are to be presented at a Workshop at NeurIPS Atlanta 2026;[OpenReview](https://openreview.net/forum?id=ngn5HGKLbO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2026%2FWorkshop%2FWiML%2FAuthors%23your-submissions)). 
+Preliminary results of the project are to be presented at a Workshop at NeurIPS Atlanta 2026;[OpenReview](<https://openreview.net/forum?id=ngn5HGKLbO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2026%2FWorkshop%2FWiML%2FAuthors%23your-submissions)>).
 
-*This project is still under progress currently and this page will be updated with the results later.*
+_This project is still under progress currently and this page will be updated with the results later._
 
 Supervisors: [Prof. Salem Lahlou](https://lahlou.org/) and [Prof. Martin Takáč](https://mtakac.com/News)
-
