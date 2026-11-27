@@ -15,3 +15,5 @@ This research underscores the potential for deploying optimized MLLMs in low-res
 [Github Repository](https://github.com/AyaLukeloCapstone/TinyLLaVA-Med-F)
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/10913565): Published in main conference proceedings of the IEEE EMBS BHI (Biomedical and Health Informatics) peer-reviewed international conference (less than 30% acceptance rate).
+
+Supervisor: [Prof. Muhammad Shafique](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/muhammad-shafique.html)

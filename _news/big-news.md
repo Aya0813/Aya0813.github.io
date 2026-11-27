@@ -1,6 +1,6 @@
 ---
 date: 01/09/2026
-title: MS in 🇨🇦
+title: Started an MS in 🇨🇦
 layout: page
 ---
 

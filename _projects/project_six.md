@@ -21,6 +21,6 @@ Context: This project was the result of 5+ months of work, and was then presente
 
 [Code](https://drive.google.com/file/d/1NYaVFU8FxxlvMSDIU-f1BItFUQnmOGFk/view?usp=sharing)
 
-[Bumblekite](https://www.bumblekite.com/summer-school-24)
+[Bumblekite ML Summer School](https://www.bumblekite.com/summer-school-24)
 
 [Presentation Slide Deck](https://drive.google.com/file/d/1ObJiG_0AOfDOIRIxQ9mIGM8hmZahJT6V/view?usp=sharing)
