@@ -1,5 +1,5 @@
 ---
 date: 08/12/2026
-title: Going to NeurIPS 🇺🇸
+title: NeurIPS 🇺🇸
 layout: page
 ---
