@@ -5,7 +5,7 @@ image: /assets/images/Aya_El_Mir.jpg
 show_news: true
 ---
 
-I am **Aya El Mir**, a Moroccan AI researcher.
+I am **Aya El Mir**, an AI researcher.
 
 #### Where I am now and how did I get here:
 
@@ -26,7 +26,7 @@ I am **Aya El Mir**, a Moroccan AI researcher.
 
 #### Contact:
 
-I love connecting with driven people; even when we disagree on some things (that’s where growth really happens!). 
+I love connecting with driven people; even when we disagree on some things (that’s where growth really happens!).
 Thus, feel free to reach out if you’d like to have a chat about anything mentioned above or beyond.
 
 **Where can one reach me?** aya.el.mir _at_ umontreal.ca
