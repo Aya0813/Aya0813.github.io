@@ -13,10 +13,3 @@ permalink: /publications
 {% for item in talks %}
   {% include talk-item.html %}
 {% endfor %}
-
-<!-- ## In the media
-{% assign media = site.data.media | sort: 'date' | reverse %}
-{% for item in media %}
-  {% include media-item.html %}
-{% endfor %}
-   -->
