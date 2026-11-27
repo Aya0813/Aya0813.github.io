@@ -79,7 +79,7 @@ _Clarification: People are generally more familiar with hackathons, but datathon
 My unique New York University Abu Dhabi (2020-2024) Bachelor education also allowed me to:
 
 - 🇨🇿 Take a course at [NYU Prague](https://www.nyu.edu/prague.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1).
-- 🇸🇬 I took the course "Care Across Borders" led by the amazing [Prof. Anju Mary Paul](https://nyuad.nyu.edu/en/academics/divisions/social-science/faculty/anju-mary-paul.html)
+- 🇸🇬 Take the course "Care Across Borders" led by the amazing [Prof. Anju Mary Paul](https://nyuad.nyu.edu/en/academics/divisions/social-science/faculty/anju-mary-paul.html)
 - 🇺🇸 Study Away at the [NYU New York Tandon School of Engineering](https://engineering.nyu.edu/).
 
 ### Where do I see myself in 5 years?
