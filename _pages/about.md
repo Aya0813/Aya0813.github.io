@@ -52,11 +52,11 @@ Thus, since I left my home country of 🇲🇦 at 18 years old in 2020, I work o
 
   - 🇩🇪 @TUM Selected as **one of 20 students** from **top U.S., Canadian, and UK** universities for the 2022 TUM PREP Program cohort.
 
-- 2022-2023
+**2022-2023**
 
-  - 🇨🇭 @ETH First Machine Learning (ML) [Summer School](https://www.bumblekite.com/summer-school-23)
-  - 🇦🇪 @Cycled Technologies AS: AI Engineer Intern
-  - 🇺🇸 First Datathon in NYC organized by the [SCCM](https://www.sccm.org/) (Society of Critical Care Medicine) ([datathon code](https://github.com/SCCMdatathon2023/team_02/blob/main/src/post_datathon/Final_Methods.ipynb))
+- 🇨🇭 @ETH First Machine Learning (ML) [Summer School](https://www.bumblekite.com/summer-school-23)
+- 🇦🇪 @Cycled Technologies AS: AI Engineer Intern
+- 🇺🇸 First Datathon in NYC organized by the [SCCM](https://www.sccm.org/) (Society of Critical Care Medicine) ([datathon code](https://github.com/SCCMdatathon2023/team_02/blob/main/src/post_datathon/Final_Methods.ipynb))
 
 - 2023-2024:
 
