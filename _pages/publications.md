@@ -8,7 +8,7 @@ permalink: /publications
   {% include publication-item.html %}
 {% endfor %}
 
-## Talks
+<!-- ## Talks
 {% assign talks = site.data.talks | sort: 'year' | reverse %}
 {% for item in talks %}
   {% include talk-item.html %}
@@ -19,4 +19,4 @@ permalink: /publications
 {% for item in media %}
   {% include media-item.html %}
 {% endfor %}
-  
+   -->
