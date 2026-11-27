@@ -12,7 +12,8 @@ permalink: /about
 
 **What did I do with these models?**
 
-Depending on the problem and model size, I have trained models from scratch and post-trained existing models using Supervised Fine-Tuning (SFT) and Reinforcement Learning Fine-Tuning (RLFT). I have also worked on model compression and optimization, including quantization.
+- Depending on the problem and model size, I have trained models from scratch and post-trained existing models using Supervised Fine-Tuning (SFT) and Reinforcement Learning Fine-Tuning (RLFT).
+- I have also worked on model compression and optimization, including quantization.
 
 **What data did I use?**
 
@@ -27,7 +28,7 @@ Depending on the problem and model size, I have trained models from scratch and 
 
 **Did I ever make these models leave my laptop? (Edge deployment)**
 
-Yes! I have worked on deploying and optimizing deep-learning models on resource-constrained hardware, notably NVIDIA Jetson Xavier. This included techniques such as quantization to significantly reduce model memory requirements while preserving performance.
+- Yes! I have worked on deploying and optimizing deep-learning models on resource-constrained hardware, notably NVIDIA Jetson Xavier. This included techniques such as quantization to significantly reduce model memory requirements while preserving performance.
 
 ❗ Of course, there is still a lot to learn. The sections above are simply meant to give a concrete picture of the kinds of technical problems I have worked on so far. **I learn as I go**, and I am always willing to pick up whatever tools, methods, or concepts are needed for the problem at hand.
 
@@ -75,6 +76,7 @@ Thus, since I left my home country of 🇲🇦 at 18 years old in 2020, I work o
 _Clarification: People are generally more familiar with hackathons, but datathons follow the same concept, with a focus on data science._
 
 My unique New York University Abu Dhabi (2020-2024) Bachelor education also allowed me to:
+
 - 🇨🇿 Take a course at [NYU Prague](https://www.nyu.edu/prague.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1).
 - 🇸🇬 I took the course "Care Across Borders" led by the amazing [Prof. Anju Mary Paul](https://nyuad.nyu.edu/en/academics/divisions/social-science/faculty/anju-mary-paul.html)
 - 🇺🇸 Study Away at the [NYU New York Tandon School of Engineering](https://engineering.nyu.edu/).
